@@ -1,0 +1,25 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Robot to create Youtube videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmvalentim/video-maker.git"
+  },
+  "keywords": [
+    "video",
+    "maker",
+    "auto",
+    "create"
+  ],
+  "author": "Rafael Valentim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmvalentim/video-maker/issues"
+  },
+  "homepage": "https://github.com/rmvalentim/video-maker#readme"
+}
