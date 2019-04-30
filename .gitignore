@@ -64,5 +64,8 @@ typings/
 
 credentials/*.json
 
-# content
+# content json
 content.json
+
+#content downloaded
+content/
